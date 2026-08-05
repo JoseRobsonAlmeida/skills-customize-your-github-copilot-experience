@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-sqlite-crud",
+      "title": "Python SQLite CRUD",
+      "description": "Build a school library CRUD app with Python and SQLite, including validation and search filters.",
+      "path": "assignments/python-sqlite-crud",
+      "dueDate": "2026-08-12",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
